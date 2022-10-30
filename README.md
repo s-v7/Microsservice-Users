@@ -36,7 +36,7 @@ msqy>>grant all on users.* to 'springuserssilas'@'%';
 ```
 {
     "id": Integer,
-    "nome": 'String",
+    "nome": "String",
     "idade" Integer,
     "endereco": "String",
     "estado" "String",
