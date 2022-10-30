@@ -30,7 +30,7 @@ msqy>>grant all on users.* to 'springuserssilas'@'%';
 >> | @PostMapping | Create Objects   | ("/usuarios") |
 >> | @GetMapping  | Search for an object | ("/usuarios/{id}") | 
 >> | @PutMapping  | Update an Object |  ("/usuarios/{id}") |
->> | @DeleteMapping | Delete an Object | ("/usuariosq{id}") | 
+>> | @DeleteMapping | Delete an Object | ("/usuarios{id}") | 
 >
 4. - Object Parameters
 ```
