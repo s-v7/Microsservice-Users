@@ -32,7 +32,7 @@ msqy>>grant all on users.* to 'springuserNameYour'@'%';
 >> | @PutMapping  | Update an Object |  ("/usuarios/{id}") |
 >> | @DeleteMapping | Delete an Object | ("/usuariosq{id}") | 
 >
-5. Object Parameters
+4. - Object Parameters
 ```
 {
     "id": Integer,
@@ -44,4 +44,5 @@ msqy>>grant all on users.* to 'springuserNameYour'@'%';
 }
 ```
 >
-> - **Author: Developer/Programming Silas Vasconcelos Cruz**[^1]:
+##### Author: Developer/Programmer Silas Vasconcelos Cruz:
+
