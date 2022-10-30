@@ -18,8 +18,8 @@
 ```
 mysql>> mysql -u root -p // Ex: ...
 mysql>> create database users // users foir o modelo utlizado no exemplo  
-mysql>>create user 'springuserNameYour'@'%' identified by 'password';
-msqy>>grant all on users.* to 'springuserNameYour'@'%';
+mysql>>create user 'springuserssilas'@'%' identified by 'password';
+msqy>>grant all on users.* to 'springuserssilas'@'%';
 ```
 3. - Once this is done and with XAMPP and sgbd running we can run it in the terminal or via preference.
 >
