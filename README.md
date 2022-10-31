@@ -43,6 +43,4 @@ msqy>>grant all on users.* to 'springuserssilas'@'%';
     "pais": "String"
 }
 ```
->
-##### Author: Developer/Programmer Silas Vasconcelos Cruz:
 
